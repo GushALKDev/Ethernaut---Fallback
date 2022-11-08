@@ -38,7 +38,7 @@ Para conseguirlo llamaremos a la función _contribute()_ enviando cualquier cant
         }
     }
 
-El último paso para conseguir los derechos de propietario es enviar cualquier cantidad de ethers al contrato si llamar a nunguna funciçon, por ejemplo desde Metamask, esto hará que la función _receive()_ sea ejecutada y pasemos a ser el propietario.
+El último paso para conseguir los derechos de propietario es enviar cualquier cantidad de ethers al contrato sin llamar a nunguna función, por ejemplo desde Metamask, esto hará que la función _receive()_ sea ejecutada y pasemos a ser el propietario.
 
 ## Reducir su balance a cero.
 
